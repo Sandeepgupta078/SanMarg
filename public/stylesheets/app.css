@@ -15,7 +15,7 @@
     padding:2% 5%;
     display:flex;
     flex-direction: column;
-    background-color: #FFC947;
+    background-color: grey;
     gap:20px;
     border-radius: 12px;
     align-items: center;
@@ -26,7 +26,7 @@
     padding:2% 5%;
     display:flex;
     flex-direction: column;
-    background-color: #185ADB;
+    background-color: lightgray;
     gap:20px;
     border-radius: 12px;
     align-items: center;
@@ -39,11 +39,12 @@ label{
     font-weight: bold;
 }
 .browse-btn{
-    background-color :#FFC947;
+    background-color :#47a6ff;
 
 }
 .nav-logo-issues{
-    width: 6rem;
+    width: 3.5rem;
+    
 }
 .showcase{
     width:2rem;
